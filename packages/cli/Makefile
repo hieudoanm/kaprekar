@@ -7,6 +7,7 @@ SRC := ./main.go
 VERSION := $(shell date +%Y.%m.%d.%H.%M.%S)
 LDFLAGS := -ldflags="-X 'github.com/hieudoanm/kaprekar/src/cmd.Version=$(VERSION)'"
 
+
 ## Commands
 lint:
 	go vet ./...
