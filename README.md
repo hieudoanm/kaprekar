@@ -39,6 +39,9 @@ Kaprekar is a focused project in this monorepo that delivers a practical tool wi
 - 💻 [CLI](https://github.com/hieudoanm/kaprekar/releases)
 - 📱 [Mobile](https://github.com/hieudoanm/kaprekar/releases)
 - 🖥️ [Desktop](https://github.com/hieudoanm/kaprekar/releases)
+  - 🍎 [MacOS](https://github.com/hieudoanm/kaprekar/releases/tag/macos-latest)
+  - 🐧 [Ubuntu](https://github.com/hieudoanm/kaprekar/releases/tag/ubuntu-latest)
+  - 🪟 [Windows](https://github.com/hieudoanm/kaprekar/releases/tag/windows-latest)
 
 ## 🛠️ 5. Development Stack
 
